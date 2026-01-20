@@ -4,3 +4,4 @@ PRIMEIRA ALTERAÇÃO
 
 1 - Autenticação via nome e senha do usuário
 2 - Autenticalção via token de acesso pessoal
+3 - Mudança de nome de arquivo de teste.txt.txt para teste.txt
